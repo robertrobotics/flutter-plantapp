@@ -22,7 +22,7 @@ class HeaderWithSearchBox extends StatelessWidget {
                   left: kDefaultPadding,
                   right: kDefaultPadding,
                   bottom: 40 + kDefaultPadding),
-              height: size.height * 0.2 - 30,
+              height: size.height * 0.21 - 30,
               decoration: BoxDecoration(
                   color: kPrimaryColor,
                   borderRadius: BorderRadius.only(
